@@ -1,0 +1,26 @@
+{
+    "participant_id": {
+        "Description": "Unique participant label."
+    },
+    "Age": {
+        "Description": "Age of the participant at the time of EEG recording.",
+        "Units": "years"
+    },
+    "Gender": {
+        "Description": "Participant gender",
+        "Levels": {
+            "male": "Biological male",
+            "female": "Biological female"
+        }
+    },
+    "aq10_score": {
+        "Description": "Total score on the 10-item Autism Spectrum Quotient (AQ-10). Higher scores indicate higher levels of autistic traits."
+    },
+    "group": {
+        "Description": "Participants were divided into low and high autistic-trait groups based on AQ-10 scores.",
+        "Levels": {
+            "low": "Low-AQ group (AQ-10 score 0-2)",
+            "high": "High-AQ group (AQ-10 score 6 or higher)"
+        }
+    }
+}
