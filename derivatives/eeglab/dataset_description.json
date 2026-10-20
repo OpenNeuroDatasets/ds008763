@@ -1,0 +1,29 @@
+{
+  "Name": "Preprocessed resting-state EEG dataset for autistic traits",
+  "BIDSVersion": "1.11.1",
+  "License": "CC-BY 4.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "eeglab",
+      "Version": "2024.2",
+      "Description": "EEG preprocessing including re-referencing, 0.1-30 Hz filtering, 4-second epoching, artifact rejection, channel interpolation, and ICA-based artifact removal."
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.ds008763.v1.0.0",
+      "Version": "1.0.0"
+    }
+  ],
+  "Keywords": [
+    "autistic traits",
+    "resting-state EEG",
+    "preprocessed EEG",
+    "AQ-10"
+  ],
+  "Authors": [
+    "Junyu Wu",
+    "Jing Meng"
+  ]
+}
