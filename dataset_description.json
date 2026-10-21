@@ -1,5 +1,5 @@
 {
-    "Name": "A resting-state EEG dataset for autistic traits",
+    "Name": "A Resting-state EEG Dataset for Autism Related Traits\n(EEG Dataset-Autistic Traits)",
     "BIDSVersion": "1.11.1",
     "HEDVersion": "8.1.0",
     "License": "CC0",
