@@ -1,5 +1,5 @@
 {
-  "Name": "Preprocessed resting-state EEG dataset for autistic traits",
+  "Name": "A Resting-state EEG Dataset for Autism Related Traits (EEG Dataset-Autistic Traits)",
   "BIDSVersion": "1.11.1",
   "License": "CC-BY 4.0",
   "DatasetType": "derivative",
@@ -17,13 +17,19 @@
     }
   ],
   "Keywords": [
+    "autism",
     "autistic traits",
-    "resting-state EEG",
-    "preprocessed EEG",
-    "AQ-10"
+    "EEG", 
+    "dataset"
   ],
   "Authors": [
-    "Junyu Wu",
-    "Jing Meng"
+        "Junyu Wu",
+        "Jiayi Shi",
+        "Rong Huang",
+        "Jingyang Yu",
+        "Tianze Wang",
+        "Yuting Zhang",
+        "Yutong Chen",
+        "Jing Meng"
   ]
 }
