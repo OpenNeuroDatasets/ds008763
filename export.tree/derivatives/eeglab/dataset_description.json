@@ -1,0 +1,35 @@
+{
+  "Name": "A Resting-state EEG Dataset for Autism Related Traits (EEG Dataset-Autistic Traits)",
+  "BIDSVersion": "1.11.1",
+  "License": "CC-BY 4.0",
+  "DatasetType": "derivative",
+  "GeneratedBy": [
+    {
+      "Name": "eeglab",
+      "Version": "2024.2",
+      "Description": "EEG preprocessing including re-referencing, 0.1-30 Hz filtering, 4-second epoching, artifact rejection, channel interpolation, and ICA-based artifact removal."
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.ds008763.v1.0.0",
+      "Version": "1.0.0"
+    }
+  ],
+  "Keywords": [
+    "autism",
+    "autistic traits",
+    "EEG", 
+    "dataset"
+  ],
+  "Authors": [
+        "Junyu Wu",
+        "Jiayi Shi",
+        "Rong Huang",
+        "Jingyang Yu",
+        "Tianze Wang",
+        "Yuting Zhang",
+        "Yutong Chen",
+        "Jing Meng"
+  ]
+}
