@@ -1,0 +1,28 @@
+# General information
+
+The dataset provides resting-state EEG data (eyes open, eyes closed) from
+80 participants whose autistic traits were assessed using the Autism-Spectrum
+Quotient-10 (AQ-10). Participants were divided into a High-AQ group (n = 41,
+AQ-10 ≥ 6) and a Low-AQ group (n = 39, AQ-10 ≤ 2). The dataset also provides
+individual AQ-10 scores and demographic information.
+
+# Dataset
+
+## Presentation
+
+The data collection was conducted at Chongqing Normal University, China. The
+detailed description of the dataset is currently under preparation by Junyu Wu,
+Rong Huang, Jingyang Yu, Jiayi Shi, Tianze Wang, Yuting Zhang, Yutong Chen
+and Jing Meng, and will be submitted for publication.
+
+## EEG acquisition
+
+* EEG system: ANT Neuro eego 64 amplifier with a 64-channel waveguard cap
+* Sampling frequency: 500 Hz
+* Impedances were kept below 5 k
+
+
+# Contact
+
+* If you have any questions or comments, please contact:
+* Jing Meng: qufumj@qq.com, jingmeng@cqnu.edu.cn
